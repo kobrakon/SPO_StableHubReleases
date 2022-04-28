@@ -1,0 +1,227 @@
+{
+	"GlobalModifiers": {
+		"enable": true, 
+		"SkillProgressRate": 0.25, 
+		"WeaponSkillProgressRate": 2,
+		"SkillAtrophy": false,
+		"SkillEnduranceWeightThreshold": 0.65,
+		"SkillExpPerLevel": 100,
+		"SkillFatiguePerPoint": 0.6,
+		"SkillFatigueReset": 30,
+		"SkillFreshEffectiveness": 1,
+		"SkillFreshPoints": 1,
+		"SkillMinEffectiveness": 0.0001,
+		"SkillPointsBeforeFatigue": 100
+	},
+	"AimDrills": {
+		"enable": true,
+		"WeaponShotAction": 1.2
+	},
+	"Assault": {
+		"enable": true,
+		"WeaponChamberAction": 0.25,
+		"WeaponFixAction": 15,
+		"WeaponReloadAction": 0.15,
+		"WeaponShotAction": 0.25
+	},
+	"Attention": {
+		"enable": true,
+		"ExamineWithInstruction": 4,
+		"FindActionFalse": 1.1,
+		"FindActionTrue": 0.9
+	},
+	"Charisma": {
+		"enable": true,
+		"SkillProgressAtn": 0.5,
+		"SkillProgressInt": 0.5,
+		"SkillProgressPer": 0.5
+	},
+	"CovertMovement": {
+		"enable": true,
+		"MovementAction": 0.6
+	},
+	"Crafting": {
+		"enable": true,
+		"CraftTimeReductionPerLevel": 0.75,
+		"CraftingCycleHours": 4,
+		"CraftingPointsToInteligence": 15,
+		"EliteExtraProductions": 3,
+		"PointsPerCraftingCycle": 5,
+		"PointsPerUniqueCraftCycle": 8,
+		"ProductionTimeReductionPerLevel": 0.75,
+		"UniqueCraftsPerCycle": 1
+	},
+	"DMR": {
+		"enable": true,
+		"WeaponChamberAction": 0.25,
+		"WeaponFixAction": 15,
+		"WeaponReloadAction": 0.15,
+		"WeaponShotAction": 1
+	},
+	"Endurance": {
+		"enable": true,
+		"GainPerFatigueStack": 0.05,
+		"MovementAction": 0.005,
+		"SprintAction": 0.08
+	},
+	"Health": {
+		"enable": true,
+		"SkillProgress": 0.5
+	},
+	"HideoutManagement": {
+		"enable": true,
+		"ConsumptionReductionPerLevel": 0.5,
+		"EliteSlots": {
+			"AirFilteringUnit": {
+				"Container": 0,
+				"Slots": 2
+			},
+			"BitcoinFarm": {
+				"Container": 2,
+				"Slots": 0
+			},
+			"Generator": {
+				"Container": 0,
+				"Slots": 2
+			},
+			"WaterCollector": {
+				"Container": 0,
+				"Slots": 2
+			}
+		},
+		"SkillBoostPercent": 1.5,
+		"SkillPointsPerAreaUpgrade": 30,
+		"SkillPointsPerCraft": 2.5,
+		"SkillPointsRate": {
+			"AirFilteringUnit": {
+				"PointsGained": 1,
+				"ResourceSpent": 5
+			},
+			"Generator": {
+				"PointsGained": 1,
+				"ResourceSpent": 5
+			},
+			"SolarPower": {
+				"PointsGained": 2,
+				"ResourceSpent": 25
+			},
+			"WaterCollector": {
+				"PointsGained": 1,
+				"ResourceSpent": 5
+			}
+		}
+	},
+	"Immunity": {
+		"enable": true,
+		"HealthNegativeEffect": 5,
+		"ImmunityMiscEffects": 5,
+		"ImmunityPainKiller": 5,
+		"ImmunityPoisonBuff": 5,
+		"StimulatorNegativeBuff": 0.021
+	},
+	"Intellect": {
+		"enable": true,
+		"ExamineAction": 30,
+		"RepairAction": 0.05,
+		"SkillProgress": 0.5
+	},
+	"MagDrills": {
+		"enable": true,
+		"MagazineCheckAction": 0.5,
+		"RaidLoadedAmmoAction": 1.2,
+		"RaidUnloadedAmmoAction": 0.75
+	},
+	"Memory": {
+		"enable": true,
+		"AnySkillUp": 0.35,
+		"SkillProgress": 0.25
+	},
+	"Metabolism": {
+		"enable": true,
+		"DecreaseNegativeEffectDurationRate": 0.5,
+		"DecreasePoisonDurationRate": 0.5,
+		"EnergyRecoveryRate": 8,
+		"HydrationRecoveryRate": 8,
+		"IncreasePositiveEffectDurationRate": 0.5
+	},
+	"Perception": {
+		"enable": true,
+		"OnlineAction": 5,
+		"UniqueLoot": 5
+	},
+	"Pistol": {
+		"enable": true,
+		"WeaponChamberAction": 0.25,
+		"WeaponFixAction": 15,
+		"WeaponReloadAction": 0.15,
+		"WeaponShotAction": 1
+	},
+	"RecoilControl": {
+		"enable": true,
+		"RecoilAction": 0.007
+	},
+	"Search": {
+		"enable": true,
+		"FindAction": 0.5,
+		"SearchAction": 0.8
+	},
+	"Shotgun": {
+		"enable": true,
+		"WeaponChamberAction": 0.25,
+		"WeaponFixAction": 15,
+		"WeaponReloadAction": 0.15,
+		"WeaponShotAction": 1
+	},
+	"Sniper": {
+		"enable": true,
+		"WeaponChamberAction": 0.5,
+		"WeaponFixAction": 15,
+		"WeaponReloadAction": 0.25,
+		"WeaponShotAction": 1
+	},
+	"Strength": {
+		"enable": true,
+		"FistfightAction": 4,
+		"MovementActionMax": 0.5,
+		"MovementActionMin": 0.02,
+		"PushUpMax": 0.05,
+		"PushUpMin": 0.025,
+		"SprintActionMax": 0.125,
+		"SprintActionMin": 0.05,
+		"ThrowAction": 0.5
+	},
+	"StressResistance": {
+		"enable": true,
+		"HealthNegativeEffect": 1.5,
+		"LowHPDuration": 0.033
+	},
+	"Surgery": {
+		"enable": true,
+		"SkillProgress": 2.5,
+		"SurgeryAction": 6
+	},
+	"Throwing": {
+		"enable": true,
+		"ThrowAction": 0.75
+	},
+	"TroubleShooting": {
+		"enable": true,
+		"EliteAmmoChanceReduceMult": 0.6,
+		"EliteDurabilityChanceReduceMult": 0.3,
+		"EliteMagChanceReduceMult": 0.3,
+		"MalfRepairSpeedBonusPerLevel": 0.005,
+		"SkillPointsPerMalfFix": 12
+	},
+	"Vitality": {
+		"enable": true,
+		"DamageTakenAction": 0.75,
+		"HealthNegativeEffect": 0.75
+	},
+	"WeaponTreatment": {
+		"enable": true,
+		"DurLossReducePerLevel": 0.05,
+		"Filter": ["5422acb9af1c889c16000029"],
+		"SkillPointsPerRepair": 20,
+		"WearChanceReducePerLevel": 0.01
+	}
+}

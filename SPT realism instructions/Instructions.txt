@@ -1,0 +1,17 @@
+After you download everything and succesfully overrote all configs its time to brake licence agreement on SPT Realism, so if you decide to do it, its on you.
+Sorry that I have to put you in this situation, sadly SPT Realism comes with Licence agreement that allows you to just use it. Any modification and sharing is not allowed, so doing those, you are breaking licence agreement, but I want to be fair towards HUB rules.
+
+Navigate to 
+"SPT 2.3.1\user\mods\.SPO\mods\SPT-Realism-Mod"
+Here you will find 2 folder you will need to modify.
+go to:
+"SPT 2.3.1\user\mods\.SPO\mods\SPT-Realism-Mod\db\bots\loadouts"
+You will find searLO.json, scavLO.json, usecLO.json.
+Inside provided folder db-bots-loadouts you will find coresponding files that contence you have to paste into those files.
+Open bearLO.json, delete all contence, and paste contence from bearLO.txt and save. Repeat to remaining files.
+
+Now go back and open folder src.
+Repeat above steps with provided files.
+
+I dont need to remind you that by breaking Licence you are remoing any form of support from Fontaine - SPT-Realism-Mod author.
+

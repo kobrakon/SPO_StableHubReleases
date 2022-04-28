@@ -1,0 +1,31 @@
+{
+	"items": [
+		{
+			"_id": "FactoryExit",
+			"_tpl": "5448ba0b4bdc2d02308b456c",
+			"parentId": "hideout",
+			"slotId": "hideout",
+			"upd": {
+				"UnlimitedCount": true,
+				"StackObjectsCount": 999999
+			}
+		}
+	],
+	"barter_scheme": {
+		"FactoryExit": [
+			[
+				{
+					"count": 1,
+					"_tpl": "5733279d245977289b77ec24"
+				},
+				{
+					"count": 2,
+					"_tpl": "590a3c0a86f774385a33c450"
+				}
+			]
+		]
+	},
+	"loyal_level_items": {
+		"FactoryExit": 1
+	}
+}
